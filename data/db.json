@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "The Ego and the Id",
+      "author": "Freud",
+      "body": "A short description of the book",
+      "id": 2
+    },
+    {
+      "title": "The Myth of Sisyphus",
+      "author": "Camus",
+      "body": "A short description of the book",
+      "id": 3
+    },
+    {
+      "title": "Also Sprach Zarathustra",
+      "author": "Nietzche",
+      "body": "A short description of the book",
+      "id": 4
+    }
+  ]
+}
